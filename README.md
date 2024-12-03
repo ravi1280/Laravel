@@ -1,2 +1,2 @@
 # Laravel
-Laravel Contribution Guidelines
+Laravel Contribution Guidelines new update
